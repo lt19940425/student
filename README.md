@@ -1,2 +1,2 @@
-# student1
+# student
 学生管理
